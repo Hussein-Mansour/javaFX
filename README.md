@@ -18,5 +18,5 @@ Where:
 #### Below is a demonstration of the JavaFX App:
 <br>
 <div align="center">
-  <img src="https://github.com/Hussein-Mansour/javaFX/assets/74609841/2d7731ba-6e25-4875-9f0f-2d0f8886e4bc" alt="Shannon's theorem App video">
+  <img src="https://github.com/Hussein-Mansour/javaFX/assets/74609841/5e67d551-10eb-4882-b07e-55add6fb4c01" alt="Shannon's theorem App video">
 </div>
